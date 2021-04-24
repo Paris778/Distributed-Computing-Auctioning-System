@@ -18,7 +18,7 @@ RunReplica.bat <optional_argument_amount_of_replicas_integer>
 - Auction Logic
 - Access Control
 - Cryptographic Authentication (5-stage challenge-response protocol, both parties verifying each other)
-- Defence against reflection attacks through identification protocol
+- Defence against reflection attacks using identification protocol
 - Active Replication of Server Nodes and database synchronisation
 - Fault tolerance and fault safety challenge-response protocol, both parties verifying each other) 
 
