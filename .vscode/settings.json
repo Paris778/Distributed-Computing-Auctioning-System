@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "jgroups-5.0.0.Final.jar"
+    ]
+}

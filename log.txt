@@ -1,0 +1,174 @@
+2020-11-28 at 18:11:09 GMT		> Server deployed
+2020-11-28 at 18:13:50 GMT		> Server deployed
+2020-11-28 at 18:14:10 GMT		> Client: 1916449972 requested authentication
+2020-11-28 at 18:14:10 GMT		> Client: 1916449972 requested exchange of Encrypted numbers 
+2020-11-28 at 18:14:10 GMT		> Client: 1916449972 has been authenticated by the server
+2020-11-28 at 18:19:23 GMT		> Client: 1916449972 requested to view all auctions
+2020-11-28 at 18:19:36 GMT		> Server deployed
+2020-11-28 at 18:19:53 GMT		> Client: 1916447209 requested authentication
+2020-11-28 at 18:19:53 GMT		> Client: 1916447209 requested exchange of Encrypted numbers 
+2020-11-28 at 18:19:53 GMT		> Client: 1916447209 has been authenticated by the server
+2020-11-28 at 18:19:56 GMT		> Client: 1916447209 requested to view all auctions
+2020-11-28 at 18:20:08 GMT		> Server deployed
+2020-11-28 at 18:20:22 GMT		> Client: 1916447209 requested to view all auctions
+2020-11-28 at 18:20:35 GMT		> Client: 1916447209 requested to view all auctions
+2020-11-28 at 18:21:17 GMT		> Server deployed
+2020-11-28 at 18:21:17 GMT		> Server deployed
+2020-11-28 at 18:21:17 GMT		> Server deployed
+2020-11-28 at 18:21:17 GMT		> Server deployed
+2020-11-28 at 18:21:17 GMT		> Server deployed
+2020-11-28 at 18:21:33 GMT		> Client: 1916447209 requested to view all auctions
+2020-11-28 at 18:22:32 GMT		> Client: 1916447209 wants to make a new auction 
+2020-11-28 at 18:22:32 GMT		> Client: 1916447209 successfully made an auction
+2020-11-28 at 18:22:44 GMT		> Client: 1916447209 requested to view all auctions
+2020-11-28 at 19:21:09 GMT		> Server deployed
+2020-11-28 at 19:21:29 GMT		> Server deployed
+2020-11-28 at 19:21:57 GMT		> Client: 2120560905 requested authentication
+2020-11-28 at 19:21:57 GMT		> Client: 2120560905 requested exchange of Encrypted numbers 
+2020-11-28 at 19:21:57 GMT		> Client: 2120560905 has been authenticated by the server
+2020-11-28 at 19:22:08 GMT		> Client: 2120560905 wants to make a new auction 
+2020-11-28 at 19:22:08 GMT		> Client: 2120560905 successfully made an auction
+2020-11-28 at 19:22:12 GMT		> Client: 2120560905 requested to view all auctions
+2020-11-28 at 19:23:33 GMT		> Client: 2120560905 requested to view all auctions
+2020-11-28 at 19:24:05 GMT		> Client: 2120560905 requested to view all auctions
+2020-11-28 at 19:24:06 GMT		> Client: 2120560905 requested to view all auctions
+2020-11-28 at 19:24:14 GMT		> Server deployed
+2020-11-28 at 19:24:29 GMT		> Client: 2120560905 requested to view all auctions
+2020-11-28 at 19:24:32 GMT		> Client: 2120560905 requested to view all auctions
+2020-11-30 at 15:49:15 GMT		> Server deployed
+2020-11-30 at 15:49:33 GMT		> Client: 1916449135 requested authentication
+2020-11-30 at 15:49:33 GMT		> Client: 1916449135 requested exchange of Encrypted numbers 
+2020-11-30 at 15:49:33 GMT		> Client: 1916449135 has been authenticated by the server
+2020-11-30 at 15:49:42 GMT		> Client: 1916449135 requested to view all auctions
+2020-11-30 at 15:49:56 GMT		> Client: 1916449135 wants to make a new auction 
+2020-11-30 at 15:49:56 GMT		> Client: 1916449135 successfully made an auction
+2020-11-30 at 15:50:00 GMT		> Client: 1916449135 requested to view all auctions
+2020-11-30 at 15:50:24 GMT		> Server deployed
+2020-11-30 at 15:50:54 GMT		> Client: 1916449135 requested to view all auctions
+2020-11-30 at 15:51:15 GMT		> Client: 1916449135 wants to make a new auction 
+2020-11-30 at 15:51:15 GMT		> Client: 1916449135 successfully made an auction
+2020-11-30 at 15:51:18 GMT		> Client: 1916449135 requested to view all auctions
+2020-11-30 at 15:51:32 GMT		> Server deployed
+2020-11-30 at 15:51:46 GMT		> Client: 1916449135 requested to view all auctions
+2020-11-30 at 15:51:59 GMT		> Client: 1916449135 requested to view all auctions
+2020-11-30 at 15:52:52 GMT		> Server deployed
+2020-11-30 at 15:53:21 GMT		> Client: 1916451792 requested authentication
+2020-11-30 at 15:53:21 GMT		> Client: 1916451792 requested exchange of Encrypted numbers 
+2020-11-30 at 15:53:21 GMT		> Client: 1916451792 has been authenticated by the server
+2020-11-30 at 15:53:29 GMT		> Client: 2002424868 requested authentication
+2020-11-30 at 15:53:29 GMT		> Client: 2002424868 requested exchange of Encrypted numbers 
+2020-11-30 at 15:53:29 GMT		> Client: 2002424868 has been authenticated by the server
+2020-11-30 at 15:53:44 GMT		> Client: 1916451792 wants to make a new auction 
+2020-11-30 at 15:53:44 GMT		> Client: 1916451792 successfully made an auction
+2020-11-30 at 15:53:58 GMT		> Server deployed
+2020-11-30 at 15:54:35 GMT		> Client: 1916451792 requested to view all auctions
+2020-11-30 at 15:54:41 GMT		> Client: 2002424868 requested to view all auctions
+2020-12-03 at 16:09:45 GMT		> Server deployed
+2020-12-03 at 16:10:18 GMT		> Server deployed
+2020-12-03 at 16:11:26 GMT		> Client: 1916452048 requested authentication
+2020-12-03 at 16:11:26 GMT		> Client: 1916452048 requested exchange of Encrypted numbers 
+2020-12-03 at 16:12:34 GMT		> Server deployed
+2020-12-03 at 16:12:54 GMT		> Server deployed
+2020-12-03 at 16:13:17 GMT		> Client: 1916444197 requested authentication
+2020-12-03 at 16:13:17 GMT		> Client: 1916444197 requested exchange of Encrypted numbers 
+2020-12-03 at 16:13:17 GMT		> Client: 1916444197 has been authenticated by the server
+2020-12-03 at 16:13:38 GMT		> Server deployed
+2020-12-03 at 16:57:42 GMT		> Server deployed
+2020-12-03 at 16:57:58 GMT		> Client: 1916447205 requested authentication
+2020-12-03 at 16:57:58 GMT		> Client: 1916447205 requested exchange of Encrypted numbers 
+2020-12-03 at 16:57:58 GMT		> Client: 1916447205 has been authenticated by the server
+2020-12-03 at 16:58:07 GMT		> Server deployed
+2020-12-03 at 16:58:07 GMT		> Server deployed
+2020-12-03 at 16:58:07 GMT		> Server deployed
+2020-12-03 at 16:58:43 GMT		> Client: 1916447205 requested to view all auctions
+2020-12-03 at 16:59:00 GMT		> Client: 1916447205 wants to make a new auction 
+2020-12-03 at 16:59:00 GMT		> Client: 1916447205 successfully made an auction
+2020-12-03 at 16:59:03 GMT		> Client: 1916447205 requested to view all auctions
+2020-12-03 at 16:59:53 GMT		> Client: 1916447205 wants to make a new auction 
+2020-12-03 at 16:59:53 GMT		> Client: 1916447205 successfully made an auction
+2020-12-03 at 16:59:56 GMT		> Client: 1916447205 requested to view all auctions
+2020-12-03 at 17:04:19 GMT		> Server deployed
+2020-12-03 at 17:04:40 GMT		> Client: 1916447238 requested authentication
+2020-12-03 at 17:04:40 GMT		> Client: 1916447238 requested exchange of Encrypted numbers 
+2020-12-03 at 17:04:40 GMT		> Client: 1916447238 has been authenticated by the server
+2020-12-03 at 17:07:19 GMT		> Server deployed
+2020-12-03 at 17:07:19 GMT		> Server deployed
+2020-12-03 at 17:07:19 GMT		> Server deployed
+2020-12-03 at 17:10:01 GMT		> Client: 1916447238 wants to make a new auction 
+2020-12-03 at 17:10:02 GMT		> Client: 1916447238 successfully made an auction
+2020-12-03 at 17:12:53 GMT		> Client: 1916447238 requested to view all auctions
+2020-12-03 at 17:14:36 GMT		> Client: 1916447238 wants to bid to auction :  0
+2020-12-03 at 17:15:15 GMT		> Client: 1916447238 wants to make a new auction 
+2020-12-03 at 17:15:15 GMT		> Client: 1916447238 successfully made an auction
+2020-12-03 at 17:15:30 GMT		> Client: 1916447238 requested to view all auctions
+2020-12-03 at 17:15:43 GMT		> Client: 1916447238 requested to close auction : 0
+2020-12-03 at 17:16:04 GMT		> Client: 1916447238 requested to view all auctions
+2020-12-03 at 17:18:03 GMT		> Client: 1916447238 requested to close auction : 1
+2020-12-03 at 17:18:17 GMT		> Client: 1916447238 wants to make a new auction 
+2020-12-03 at 17:18:17 GMT		> Client: 1916447238 successfully made an auction
+2020-12-03 at 17:19:59 GMT		> Client: 1916447238 requested to view all auctions
+2020-12-03 at 17:20:11 GMT		> Client: 1916447238 wants to make a new auction 
+2020-12-03 at 17:20:11 GMT		> Client: 1916447238 successfully made an auction
+2020-12-03 at 17:21:14 GMT		> Server deployed
+2020-12-03 at 17:21:14 GMT		> Server deployed
+2020-12-03 at 17:21:30 GMT		> Client: 1916449876 requested authentication
+2020-12-03 at 17:21:30 GMT		> Client: 1916449876 requested exchange of Encrypted numbers 
+2020-12-03 at 17:21:30 GMT		> Client: 1916449876 has been authenticated by the server
+2020-12-03 at 17:25:55 GMT		> Client: 1916449876 requested to view all auctions
+2020-12-03 at 17:26:06 GMT		> Client: 1916449876 requested to view all auctions
+2020-12-03 at 17:31:53 GMT		> Server deployed
+2020-12-03 at 17:32:04 GMT		> Server deployed
+2020-12-03 at 17:32:19 GMT		> Client: 1103945105 requested authentication
+2020-12-03 at 17:32:19 GMT		> Client: 1103945105 requested exchange of Encrypted numbers 
+2020-12-03 at 17:32:19 GMT		> Client: 1103945105 has been authenticated by the server
+2020-12-03 at 17:32:45 GMT		> Client: 1103945105 wants to make a new auction 
+2020-12-03 at 17:32:45 GMT		> Client: 1103945105 successfully made an auction
+2020-12-03 at 17:32:52 GMT		> Client: 1103945105 requested to view all auctions
+2020-12-03 at 17:33:02 GMT		> Client: 1103945105 requested to view all auctions
+2020-12-03 at 17:34:03 GMT		> Server deployed
+2020-12-03 at 17:34:20 GMT		> Client: 1916450870 requested authentication
+2020-12-03 at 17:34:20 GMT		> Client: 1916450870 requested exchange of Encrypted numbers 
+2020-12-03 at 17:34:20 GMT		> Client: 1916450870 has been authenticated by the server
+2020-12-03 at 17:34:28 GMT		> Client: 1916450870 requested to view all auctions
+2020-12-03 at 17:37:16 GMT		> Server deployed
+2020-12-03 at 17:37:23 GMT		> Client: 61820875 requested authentication
+2020-12-03 at 17:37:23 GMT		> Client: 61820875 requested exchange of Encrypted numbers 
+2020-12-03 at 17:37:23 GMT		> Client: 61820875 has been authenticated by the server
+2020-12-03 at 17:37:32 GMT		> Client: 61820875 requested to view all auctions
+2020-12-03 at 17:37:45 GMT		> Client: 61820875 wants to make a new auction 
+2020-12-03 at 17:37:45 GMT		> Client: 61820875 successfully made an auction
+2020-12-03 at 17:39:33 GMT		> Client: 61820875 wants to bid to auction :  0
+2020-12-10 at 11:26:21 GMT		> Server deployed
+2020-12-10 at 11:26:59 GMT		> Server deployed
+2020-12-10 at 11:27:01 GMT		> Server deployed
+2020-12-10 at 11:28:24 GMT		> Client: 1916449035 requested authentication
+2020-12-10 at 11:28:46 GMT		> Server deployed
+2020-12-10 at 11:29:13 GMT		> Client: 1916450961 requested authentication
+2020-12-10 at 11:29:13 GMT		> Client: 1916450961 requested exchange of Encrypted numbers 
+2020-12-10 at 11:29:13 GMT		> Client: 1916450961 has been authenticated by the server
+2020-12-10 at 11:29:38 GMT		> Server deployed
+2020-12-10 at 11:29:38 GMT		> Server deployed
+2020-12-10 at 11:30:24 GMT		> Client: 1916450961 wants to make a new auction 
+2020-12-10 at 11:30:24 GMT		> Client: 1916450961 successfully made an auction
+2020-12-10 at 11:31:50 GMT		> Server deployed
+2020-12-10 at 11:32:41 GMT		> Client: 1916450961 requested to view all auctions
+2020-12-10 at 11:33:05 GMT		> Server deployed
+2020-12-10 at 11:33:36 GMT		> Client: 61820935 requested authentication
+2020-12-10 at 11:33:36 GMT		> Client: 61820935 requested exchange of Encrypted numbers 
+2020-12-10 at 11:33:36 GMT		> Client: 61820935 has been authenticated by the server
+2020-12-10 at 11:33:51 GMT		> Server deployed
+2020-12-10 at 11:34:04 GMT		> Server deployed
+2020-12-10 at 11:34:13 GMT		> Client: 61820935 wants to make a new auction 
+2020-12-10 at 11:34:13 GMT		> Client: 61820935 successfully made an auction
+2020-12-10 at 11:34:28 GMT		> Client: 61820935 requested to view all auctions
+2020-12-10 at 11:36:05 GMT		> Server deployed
+2020-12-14 at 14:38:26 GMT		> Server deployed
+2020-12-14 at 14:38:49 GMT		> Client: 1916449004 requested authentication
+2020-12-14 at 14:38:50 GMT		> Client: 1916449004 requested exchange of Encrypted numbers 
+2020-12-14 at 14:38:50 GMT		> Client: 1916449004 has been authenticated by the server
+2020-12-14 at 14:38:53 GMT		> Client: 1916449004 requested to view all auctions
+2020-12-14 at 14:39:00 GMT		> Server deployed
+2020-12-14 at 14:39:00 GMT		> Server deployed
+2020-12-14 at 14:39:27 GMT		> Client: 1916449004 wants to make a new auction 
+2020-12-14 at 14:39:27 GMT		> Client: 1916449004 successfully made an auction
+2020-12-14 at 14:39:42 GMT		> Client: 1916449004 requested to view all auctions
