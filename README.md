@@ -6,9 +6,9 @@ A distributed auctioning system able to handle multiple concurrent clients and a
 - Requires JGroups to be installed on your system and to be in your system environment variables.
 
 ```bash
-./RunProject.bat
-./RunClient.bat
-./RunReplica.bat <optional_argument_amount_of_replicas_integer>
+RunProject.bat  # Runs Server 
+RunClient.bat   # Runs Client (can be run many times on different terminals) 
+RunReplica.bat <optional_argument_amount_of_replicas_integer>
 
 ```
 
