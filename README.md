@@ -3,7 +3,7 @@ A distributed auctioning system able to handle multiple concurrent clients and a
 
 ## How to set up 
 
-- Requires JGroups to be installed on your system and to be in your system environment variables.
+- Requires JGroups to be installed on your system and  be in your system environment variables.
 
 ```bash
 RunProject.bat  # Runs Server 
