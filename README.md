@@ -26,9 +26,9 @@ A distributed auctioning system able to handle multiple concurrent clients and a
 ## Screenshots 
 
 ![Alt text](https://github.com/Paris778/Distributed-Computing-Auctioning-System/blob/main/scrnShots/Capture.JPG "Title")
-![Alt text](https://github.com/Paris778/Distributed-Computing-Auctioning-System/blob/main/scrnShots/Capture2.JPG"Title")
-![Alt text](https://github.com/Paris778/Distributed-Computing-Auctioning-System/blob/main/scrnShots/Capture3.JPG"Title")
-![Alt text](https://github.com/Paris778/Distributed-Computing-Auctioning-System/blob/main/scrnShots/Capture4.JPG"Title")
+![Alt text](https://github.com/Paris778/Distributed-Computing-Auctioning-System/blob/main/scrnShots/Capture2.JPG "Title")
+![Alt text](https://github.com/Paris778/Distributed-Computing-Auctioning-System/blob/main/scrnShots/Capture3.JPG "Title")
+![Alt text](https://github.com/Paris778/Distributed-Computing-Auctioning-System/blob/main/scrnShots/Capture4.JPG "Title")
 
 
 ## License
